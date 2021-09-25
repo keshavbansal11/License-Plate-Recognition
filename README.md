@@ -1,4 +1,6 @@
 # License Plate Recognition
+Vehicle License Plate Detection (VLPD) system is a real time embedded system which automatically recognizes the license plate of vehicles.
+
 
 ## Training model for Character Recognition
 (trainedModel.sav)
